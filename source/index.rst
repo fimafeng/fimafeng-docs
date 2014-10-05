@@ -12,6 +12,13 @@ Contents:
    :maxdepth: 2
 
    intro
+   architecture
+   fimafeng-core
+   fimafeng-back
+   fimafeng-front
+   fimafeng-console
+   fimafeng-protos
+   fimafeng-docs
 
 
 
